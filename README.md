@@ -8,21 +8,24 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 [QRCode Reader and Generator](https://github.com/insiderdev/qrcode)
 Mobile app for scanning and generating different types of QR Codes.
-* [iTunes Store](https://itunes.apple.com/us/app/id1445350234)
-* [Google Play Store](https://play.google.com/store/apps/details?id=io.insider.apps.qr)
+
+- [iTunes Store](https://itunes.apple.com/us/app/id1445350234)
+- [Google Play Store](https://play.google.com/store/apps/details?id=io.insider.apps.qr)
 
 [Movie Swiper](https://github.com/azhavrid/movie-swiper) - Unofficial client for movie service [TMDb](https://www.themoviedb.org).
 
-[Sh**t! I Smoke](https://shootismoke.github.io/)
+[Sh\*\*t! I Smoke](https://shootismoke.github.io/)
 See Your City's Air Pollution Measured in Daily Cigarettes. Featured on BBC, Huffpost, CityLab.
-* [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.shitismoke.app)
-* [Expo](https://expo.io/@amaurymartiny/shoot-i-smoke)
-* [Source on Github](https://github.com/amaurymartiny/shoot-i-smoke)
+
+- [iTunes Store](https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.shitismoke.app)
+- [Expo](https://expo.io/@amaurymartiny/shoot-i-smoke)
+- [Source on Github](https://github.com/amaurymartiny/shoot-i-smoke)
 
 [Quirk CBT](https://github.com/flaque/quirk)
 Cognitive Behavioral Therapy in a sleek, simple React Native app.
-* [ios](https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8)
+
+- [ios](https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8)
 
 [System Equation Solver](https://github.com/rezaandwenhao/system-equation-solver) -
 This is a two-unknown-variable system equation solver app. Firebase is used to store the solving history according to username. The equation solver supports integer, negative, decimal and fraction number.
@@ -30,92 +33,105 @@ This is a two-unknown-variable system equation solver app. Firebase is used to s
 [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 
 [LBRY](https://github.com/lbryio/lbry-android) - [LBRY](https://lbry.io) is a free, open, and community-run digital marketplace.
-  * [Google Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser)
 
 [Nic or Not](https://github.com/gantman/nicornot) - Detect Nic Cage - http://nicornot.com
-* [iTunes Store](https://itunes.apple.com/us/app/nic-or-not/id1437819644?ls=1&mt=8)
+
+- [iTunes Store](https://itunes.apple.com/us/app/nic-or-not/id1437819644?ls=1&mt=8)
 
 [Facebook F8 App](https://github.com/fbsamples/f8app) - Facebook Official F8 Open Source App
-* [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
+
+- [iTunes Store](https://itunes.apple.com/us/app/f8/id853467066)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.facebook.f8)
 
 [Rocket.Chat Experimental](https://rocket.chat) - Open Source Team Communication
-* [iTunes Store](https://itunes.apple.com/us/app/rocket-chat-experimental/id1272915472)
-* [Google Play Store](https://play.google.com/store/apps/details?id=chat.rocket.reactnative)
-* [Source on Github](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+
+- [iTunes Store](https://itunes.apple.com/us/app/rocket-chat-experimental/id1272915472)
+- [Google Play Store](https://play.google.com/store/apps/details?id=chat.rocket.reactnative)
+- [Source on Github](https://github.com/RocketChat/Rocket.Chat.ReactNative)
 
 [Hooligram](https://github.com/hooligram/hooligram-client) - Open Source Messaging App
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.hooligram)
-* [Source on GitHub](https://github.com/hooligram/hooligram-client)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.hooligram)
+- [Source on GitHub](https://github.com/hooligram/hooligram-client)
 
 [Hide The Notch](https://github.com/MoOx/HideTheNotch) - A wallpaper app to hide the iPhone X notch
-* [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
+
+- [iTunes Store](https://itunes.apple.com/us/app/hide-the-notch/id1312839983?ls=1&mt=8)
 
 [RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile) - Open source chess game built from scratch for the [web](http://rsg-chess.now.sh) and adapted for Android using React Native
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.rsg.chess)
-* [Amazon AppStore](https://www.amazon.com/RSG-Group-Chess/dp/B07D1KWTK7)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.rsg.chess)
+- [Amazon AppStore](https://www.amazon.com/RSG-Group-Chess/dp/B07D1KWTK7)
 
 [Pocat](https://github.com/rotembcohen/pokerBuddyApp) - Organize casual poker games
-* [Expo](https://expo.io/@rotembcohen/pocat)
-* [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
+
+- [Expo](https://expo.io/@rotembcohen/pocat)
+- [iTunes Store](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
 
 [Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
-* [Expo](https://expo.io/@terminalpunk/bullet)
-* [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
+
+- [Expo](https://expo.io/@terminalpunk/bullet)
+- [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
 
 [Equation Solver](https://github.com/ebouJ/Equation-Solver) -
-A cross-platform equation solver that solves linear, quadratic,  and cubic equation. Also solves two and three variables simultaneous equation. Heavily typed with typescript.
+A cross-platform equation solver that solves linear, quadratic, and cubic equation. Also solves two and three variables simultaneous equation. Heavily typed with typescript.
 
-* [iTunes Store](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
-
+- [iTunes Store](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
 
 [Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
-* [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote)
+
+- [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote) (Temporarily unavailable)
 
 [Gas/Oil Mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile) - Mobile app which calculate Gasoline/Oil mix ratio for 2 stroke engines.
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
 
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
 
 [ndash](https://github.com/alexindigo/ndash) - your npm dashboard!
-* [iTunes Store](https://appsto.re/us/nY9Sib.i)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
 
+- [iTunes Store](https://appsto.re/us/nY9Sib.i)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.ndash)
 
 [Chain React Conf](https://github.com/infinitered/ChainReactApp) by Infinite Red - Official Conference App for the [Chain React Conference](https://infinite.red/ChainReactConf)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
-* [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+- [iTunes Store](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
 
 [Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - A Hacker News Reader App
-* [iTunes Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
+
+- [iTunes Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
 
 [Joplin](https://github.com/laurent22/joplin) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
-* [iTunes Store](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+
+- [iTunes Store](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 
 [ComicBook](https://github.com/liyuechun/ComicBook)
 liyuechun
 Cool comic books, supporting iOS and Android.
 
 [Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher) - Instructure
-* [iTunes Store](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
+
+- [iTunes Store](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
 
 [Cat or Dog](https://github.com/punksta/Cat-or-dog) - Drag-n-drop mobile game.
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.punksta.apps.sortgame)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.punksta.apps.sortgame)
 
 [Moonwalk](https://github.com/Illu/moonwalk) - Stay up to date with upcoming rocket launches.
-* [iTunes Store](https://itunes.apple.com/us/app/moonwalk-rocket-launches/id1439376174)
+
+- [iTunes Store](https://itunes.apple.com/us/app/moonwalk-rocket-launches/id1439376174)
 
 [Daily Prices](http://ansolutions.co/prices-today) - [Google Play Store](https://play.google.com/store/apps/details?id=com.na.prices.today&hl=en)
- AN Solutions
- Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
+AN Solutions
+Daily Prices is an app for showing updated daily products prices in Egypt, Gold and sliver prices and Currency exchange for major banks in Egypt.
 
-
-[What the Thing?](https://github.com/vigzmv/what_the_thing) -  Point camera at things to learn how to say them in a different language.
-
+[What the Thing?](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
 
 [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - [Google Play Store](https://play.google.com/store/apps/details?id=com.formula1info)
 Srdjan Prpa
@@ -380,77 +396,89 @@ The http://thecatapi.com/ unofficial client. Random cat photos and gifs feed.
 Get breaking news headlines with short description filtered by your interests and country preferences.
 
 [Zulip Mobile](https://github.com/zulip/zulip-mobile) - The official mobile client for Zulip - powerful open source team chat.
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.zulipmobile)
-* [iTunes Store](https://itunes.apple.com/us/app/zulip/id1203036395)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.zulipmobile)
+- [iTunes Store](https://itunes.apple.com/us/app/zulip/id1203036395)
 
 [Mattermost Mobile Applications](https://github.com/mattermost/mattermost-mobile) - The official React Native mobile clients for Mattermost an open source workplace messaging solution.
-* [iOS](http://about.mattermost.com/mattermost-ios-app/)
-* [Android](http://about.mattermost.com/mattermost-android-app/)
+
+- [iOS](http://about.mattermost.com/mattermost-ios-app/)
+- [Android](http://about.mattermost.com/mattermost-android-app/)
 
 [Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
 [Mohamed Feddad](https://github.com/mrf345) <br />
 Android wallpapers manager built with react-native and utlizes reddit api.
 
 [RebelGamer Mobile App](https://github.com/Mokkapps/rebelgamer-mobile-app) - Mobile app for the gaming blog www.rebelgamer.de
-* [iOS](https://itunes.apple.com/de/app/rebelgamer-news-f%C3%BCr-gamer/id1187403828?mt=8)
-* [Android](https://play.google.com/store/apps/details?id=de.rebelgamer.RebelGamerRSS)
+
+- [iOS](https://itunes.apple.com/de/app/rebelgamer-news-f%C3%BCr-gamer/id1187403828?mt=8)
+- [Android](https://play.google.com/store/apps/details?id=de.rebelgamer.RebelGamerRSS)
 
 [Pride in London App](https://github.com/redbadger/pride-london-app) - Official events app for Pride in London
-* [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
-* [Google Play Store](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
+
+- [iTunes Store](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
+- [Google Play Store](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
 
 [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates, Currency converter mobile app using ReactNative
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.forexrates)
 
 [Parents Soundboard](https://github.com/Mokkapps/parents-soundboard) - A soundboard developed for parents to be able to play often needed phrases like "No"
-* [Android](https://play.google.com/store/apps/details?id=de.mokkapps.parentssoundboard)
-* [iOS](https://itunes.apple.com/us/app/parents-soundboard/id1434425575?mt=8)
 
+- [Android](https://play.google.com/store/apps/details?id=de.mokkapps.parentssoundboard)
+- [iOS](https://itunes.apple.com/us/app/parents-soundboard/id1434425575?mt=8)
 
 [Audiobook app](https://github.com/minhtc/sachnoiapp) - A completed audiobook app with some cool animations
 
 [eLadder](https://github.com/bastiRe/eladder) - eLadder is an app to create leagues for Fifa, foosball or similar games. Games can be tracked and players are rated by a custom ELO-system.
-* [iTunes Store](https://itunes.apple.com/de/app/eladder/id1109846671?l=en&mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=de.sebastianrehm.eladder&hl=en)
+
+- [iTunes Store](https://itunes.apple.com/de/app/eladder/id1109846671?l=en&mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=de.sebastianrehm.eladder&hl=en)
 
 [Dronk](https://github.com/tiaanduplessis/dronk) - A social drinking game
 
 [Arxiv Papers](https://lopespm.github.io/arxiv-papers-mobile) - ArXiv Papers is a mobile application to search, download and save arXiv papers.
-  * [Google Play Store](https://play.google.com/store/apps/details?id=com.rockbyte.arxiv)
-  * [F-Droid Store](https://f-droid.org/packages/com.rockbyte.arxiv)
-  * [Source on github](https://github.com/lopespm/arxiv-papers-mobile)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.rockbyte.arxiv)
+- [F-Droid Store](https://f-droid.org/packages/com.rockbyte.arxiv)
+- [Source on github](https://github.com/lopespm/arxiv-papers-mobile)
 
 [Kitty Rescue](https://github.com/marrionluaka/KittyRescue) - Kitty Rescue is an innovative and fun matching game for all ages to enjoy!
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.kittyrescue)
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.kittyrescue)
 
 [Hydropuzzle](https://www.hydropuzzle.com/) - Stylish puzzle adventure
-  * [App Store](https://itunes.apple.com/app/id1294812505?mt=8)
-  * [Google Play Store](https://play.google.com/store/apps/details?id=org.sobstel.hydropuzzle)
-  * [Source on github](https://github.com/hydropuzzle/hydropuzzle)
+
+- [App Store](https://itunes.apple.com/app/id1294812505?mt=8)
+- [Google Play Store](https://play.google.com/store/apps/details?id=org.sobstel.hydropuzzle)
+- [Source on github](https://github.com/hydropuzzle/hydropuzzle)
 
 [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - A beautiful, Open Source Android and iOS app for searching song lyrics.
-* [Expo](https://expo.io/@skempin/lyrics-king)
 
-[React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) -  A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
+- [Expo](https://expo.io/@skempin/lyrics-king)
+
+[React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) - A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
 
 [Thirukkural](https://github.com/Avinash-Raj/thirukkural) - Educational app for learning [thirukkural](https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Ba%E1%B8%B7)
 
 [BMI Calculator](https://github.com/oliver-gomes/react-native-bmi) - Feedback on Body mass index (BMI) to measure body fat based on height and weight.
-* [Expo](https://expo.io/@ogomes/bmi-calculator)
+
+- [Expo](https://expo.io/@ogomes/bmi-calculator)
 
 [Modern Twin Calculator](https://github.com/oliver-gomes/react-native-calculator) - Modern Calculator with Day/Night Switch help stand out in dark and light area
-* [Expo](https://expo.io/@ogomes/twin-modern-calculator)
+
+- [Expo](https://expo.io/@ogomes/twin-modern-calculator)
 
 [Github Gist Client - Arjun](https://github.com/Arjun-sna/react-native-githubgist-client)
 Mobile client application for Github Gists
-  * [Google Play Store](https://play.google.com/store/apps/details?id=com.githubgist)
 
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.githubgist)
 
 [Helo Protocol](https://github.com/gagangoku/helo-protocol-rn)
 Android / IOS app for Helo Protocol. Uses codepush to keep itself up to date.
-  * [Google Play Store](https://play.google.com/store/apps/details?id=com.heloprotocol.customer.app.rn.notificationtester)
-  * [Apple App store](https://itunes.apple.com/gb/app/heloprotocol/id1455721517)
 
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.heloprotocol.customer.app.rn.notificationtester)
+- [Apple App store](https://itunes.apple.com/gb/app/heloprotocol/id1455721517)
 
 [WordsReminder](https://github.com/akiver/wordsreminder) - Save arbitrary words in dictionaries.
 Made with [react-native-firebase](https://github.com/invertase/react-native-firebase) / [TypeScript](http://www.typescriptlang.org/) and [Detox](https://github.com/wix/Detox) for E2E tests.
@@ -462,19 +490,18 @@ Includes a passcode / biometry system powered by [react-native-touch-id](https:/
 
 [Quizz App](https://github.com/ReactNativeSchool/react-native-quiz) - An app to store your knowledge and quiz yourself on it.
 
-
 [Meet Native](https://github.com/beauvaisbruno/meetnative) - An app to locate a language partner.
 Made with [Typescript](https://github.com/Microsoft/TypeScript-React-Native-Starter), [redux-saga](https://github.com/redux-saga/redux-saga), [Storybook](https://github.com/storybooks/storybook), [Firestore](https://firebase.google.com/docs/firestore/), [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/), [Firebase Authentication](https://firebase.google.com/docs/auth/), [Graphql](https://graphql.org/) with [Apollo](https://www.apollographql.com/), [Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 
 [eSteem Mobile](https://esteem.app) - Decentralized, rewarding social media.
-* [iTunes Store](https://itunes.apple.com/us/app/esteem-v2/id1451896376)
-* [Google Play Store](https://play.google.com/store/apps/details?id=app.esteem.mobile)
-* [Source on Github](https://github.com/esteemapp/esteem-mobile)
+
+- [iTunes Store](https://itunes.apple.com/us/app/esteem-v2/id1451896376)
+- [Google Play Store](https://play.google.com/store/apps/details?id=app.esteem.mobile)
+- [Source on Github](https://github.com/esteemapp/esteem-mobile)
 
 [Bon-Appetit!](https://github.com/steniowagner/bon-appetit-app) - A React-Native App that shows options of Restaurants, Gastronomic Events and Dishes in the City of Fortaleza (Brazil).
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Technology Strategist of [Infinite Red](https://infinite.red/react-native).
-
 
 ### Boilerplate React Native Apps
 
